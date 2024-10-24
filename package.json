@@ -4,7 +4,7 @@
   "description": "",
   "main": "payment.js",
   "scripts": {
-   "start": "node server.js"
+   "start": "node payment.js"
   },
   "keywords": [],
   "author": "",
